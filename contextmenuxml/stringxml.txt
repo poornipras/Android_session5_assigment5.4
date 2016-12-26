@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContextMenuCode</string>
+    <string-array name="country">
+        <item>America</item>
+        <item>Australia</item>
+        <item>Bulgaria</item>
+        <item>India</item>
+        <item>Romania</item>
+    </string-array>
+</resources>
